@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1685357022 source:c:\users\toshiba\documents\fundamentals\operaters\main.c
+	<stdio.h>
+	<stdlib.h>
+
