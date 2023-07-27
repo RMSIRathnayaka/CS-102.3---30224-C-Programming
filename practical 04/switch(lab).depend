@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1687074938 source:c:\users\toshiba\documents\fundamentals\switch(lab)\main.c
+	<stdio.h>
+	<stdlib.h>
+
